@@ -47,7 +47,7 @@ I am currently working on several projects, some of which are:
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
   <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  /><br>
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
   <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
   <img src="https://skillicons.dev/icons?i=deno" height="40" alt="deno logo"  />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
@@ -88,7 +88,7 @@ I am currently working on several projects, some of which are:
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo"  />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  /><br>
+  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
   <img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo"  />
   <img src="https://skillicons.dev/icons?i=qt" height="40" alt="qt logo"  />
 </div>

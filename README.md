@@ -12,10 +12,10 @@
 
 #
 
-- **Project Lead** for **UColab** – a skill-based matchmaking platform designed for hackathons.  
-- **Lead Developer** for **AiCore** – software that automates forensic bloodstain pattern analysis.  
-- **Lead Developer** for **Kwento Kard** – an AR-powered SaaS platform for digital business cards.  
-- **Lead Developer** for **Kita Kordillera** – a digital triage system for eye checkups
+**Project Lead** for `UColab` – a skill-based matchmaking platform designed for hackathons.  \
+**Lead Developer** for `AiCore` – software that automates forensic bloodstain pattern analysis.  \
+**Lead Developer** for `Kwento Kard` – an AR-powered SaaS platform for digital business cards.  \
+**Lead Developer** for `Kita Kordillera` – a digital triage system for eye checkups
 
 #
 

@@ -12,12 +12,10 @@
 
 #
 
-I am currently working on several projects, some of which are:
-
-**`HULECa`** - Cigarette object-detection system for barangay CCTVs <br>
-**`UCoLab`** - AI-powered real-time matchmaking platforms for future innovators <br>
-
-3 of which are personal side-projects.
+- **Project Lead** for **UColab** – a skill-based matchmaking platform designed for hackathons.  
+- **Lead Developer** for **AiCore** – software that automates forensic bloodstain pattern analysis.  
+- **Lead Developer** for **Kwento Kard** – an AR-powered SaaS platform for digital business cards.  
+- **Lead Developer** for **Kita Kordillera** – a digital triage system for eye checkups
 
 #
 

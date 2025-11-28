@@ -7,7 +7,7 @@
 
 👨‍🎓 Bachelor of Science in Information Technology <br>
 🎯 Major in Web Technologies <br>
-💻 Software Developer Intern at Innovation and Technology Transfer Office <br>
+💻 Lead Developer at **AiCore** - Artificial Intelligence for Crime Observation and Reconstruction <br>
 🚀 Aspiring to pursue a Master of Science in Computer Science <br>
 
 #
